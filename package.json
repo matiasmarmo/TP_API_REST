@@ -1,0 +1,19 @@
+{
+  "name": "tp_api_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasmarmo/TP_API_REST.git"
+  },
+  "author": "Matias Marmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasmarmo/TP_API_REST/issues"
+  },
+  "homepage": "https://github.com/matiasmarmo/TP_API_REST#readme"
+}
